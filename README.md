@@ -1,7 +1,7 @@
 # DatabricksDataAnalyst
   
 ### Course description
-This content provides a comprehensive introduction to Databricks SQL. It is designed with the intention of supporting individuals seeking the Associate Data Analysis of Databricks SQL certification. Participants will learn about ingesting data, writing queries, producing visualizations and dashboards, and how to connect Databricks SQL to additional tools by using Partner Connect. 
+This course provides a comprehensive introduction to Databricks SQL. Learnt about ingesting data, writing queries, producing visualizations and dashboards, and how to connect Databricks SQL to additional tools by using Partner Connect. 
 
 ### Learning objectives
 - Describe how Databricks SQL works in the Lakehouse architecture
